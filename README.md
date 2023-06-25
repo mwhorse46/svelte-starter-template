@@ -1,9 +1,6 @@
 # 🚧  Svelte Template
 
 > Svelte + Typescript + Parcel + Express
->
-> + 👋 **Svelte Template** **<u>(THIS)</u>** -> https://github.com/hmmhmmhm/svelte-template
-> + 🚀 **Svelte SPA Template** -> https://github.com/hmmhmmhm/svelte-spa-template
 
 
 
